@@ -1,4 +1,4 @@
-// JavaScript Document
+s// JavaScript Document
 
 
 function d(val) {
