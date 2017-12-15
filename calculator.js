@@ -19,6 +19,24 @@ function e() {
 		d("Error");
 	}
 }
+
+<script>
+function night() {
+    
+	document.body.style.backgroundColor = "black";
+	document.body.style.color = "white";
+	
+}
+function day() {
+		document.body.style.backgroundColor ="white";
+	document.body.style.color = "black";
+}
+
+</script>
+<button type="button" onclick="night()">Night</button>
+
+<button type="button" onclick="day()">Day</button>
+
 /*
 // Change Display
 function d(val) {
